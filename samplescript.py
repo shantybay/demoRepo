@@ -20,6 +20,6 @@ print(my_matrix)
 
 print(my_second_matrix)
 
-print("hello")
 
 
+print("goodbye")
