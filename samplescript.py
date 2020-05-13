@@ -9,12 +9,12 @@ import numpy as np
 import pandas as pd
 
 
-my_matrix=np.eye(4)
+my_matrix=np.eye(3)
 
 my_second_matrix=np.array[[1,2,3,4],
                           [2,3,4,6]
-                          [6,7,8,9],
-                          [6,4,2,1]]
+                          [1,2,1,2],
+                          ["hello","goodbye","scott","sam"]]
 
 print(my_matrix)
 
